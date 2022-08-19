@@ -28,16 +28,6 @@
     
 </p>
 
-<br>
-
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nishwalshetty&show_icons=true&locale=en&layout=compact"
-    alt="nishwalshetty" /></p>
-
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishwalshetty&show_icons=true&locale=en"
     alt="nishwalshetty" /></p>
 
